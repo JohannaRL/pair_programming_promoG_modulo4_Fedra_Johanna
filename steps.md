@@ -17,3 +17,30 @@
  - Budget fase + alto. 
  - Comparar tomatto, imbd y metrics ¿peli mejor valorada y peor? 
 
+    - Película más taquillera mundialmente.
+    - Película con más presupuesto 
+    - Comparación millones recaudados en SP, UK y FR. 
+    - Películas más duraderas
+    - Mejores y peores valoradas en IMBD.
+    - Actores con más apariencia.
+    - Diferencia género en actores.
+    - División fases y temporada de estreno. 
+    -
+
+
+
+ Objetivo fin de semana : Crear un DF con las columans de cada df individial con todos los datos que vamos a usar. 
+
+- df_info : movie_title , season, phase, production,worldwide $
+- df_europa : movie_title, spain, portugal , uk
+- df_segundo : film(pasar a movie_title), filtrar género con MCU y male/female. 
+- df_marvel : name(cambiar a movie_title), duration , cast
+
+** Valorar hacer un dataframe nuevo donde tengamos los 10 países donde más se ha recaudado dinero por película, y crear una columna. **
+
+ - Una vez limpios, los juntaremos en df_marvel_final
+
+ - Crear vídeo
+
+
+
