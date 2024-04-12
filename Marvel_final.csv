@@ -1,0 +1,11 @@
+movie_title,season,phase,production_budget_in_million_(USD),worldwide_collection_in_million_(USD),Spain,United Kingdom,France,Duration,Cast,IMDB rating,Male/Female-led
+Iron Man,Spring,1,140,585.37,12.03,34.28,19.2,2h 6min,"Robert Downey Jr. , Gweneth Paltrow , Terrence Howard",7.9,Male
+Iron Man 2,Spring,1,200,623.93,7.6,30.46,19.79,2h 4min,"Robert Downey Jr. , Gweneth Paltrow , Mickey Rourke",7.0,Male
+Thor,Spring,1,150,449.33,12.44,22.52,18.37,1h 55min,"Chris Hemsworth , Anthony Hopkins , Natalie Portman",7.0,Male
+Iron Man 3,Spring,2,200,1214.81,13.05,57.07,38.96,2h 10min,"Robert Downey Jr. , Gweneth Paltrow , Guy Pearce",7.1,Male
+Ant-Man,Summer,2,130,519.31,4.15,25.19,13.56,1h 57min,"Paul Rudd , Michael Douglas , Corey Stall",7.3,Male
+Captain America: Civil War,Spring,3,250,1153.34,11.35,53.78,23.22,2h 27min,"Robert Downey Jr. , Chris Evans , Scarlett Johansson , Sebastian Stan",7.8,Male
+Guardians of the Galaxy Vol. 2,Spring,3,200,863.76,10.31,53.06,24.81,2h 16min,"Chris Patt ,  Zoe Saldana , Dave Bautista , Vin Diesel",7.6,Male
+Black Panther,Winter,3,200,1347.6,9.72,70.75,33.11,2h 14min,"Chadwick Boseman , Michael B. Jordan , Lupita Nyong'o",7.3,Male
+Avengers: Infinity War,Spring,3,325,2048.36,24.81,96.64,47.69,2h 29min,"Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo , Josh Brolin",8.4,Male
+Ant-Man and the Wasp,Summer,3,162,622.67,6.87,22.94,14.72,1h 58min,"Paul Rudd , Evangeline Lilly , Micheal Pena",7.0,Co-starring

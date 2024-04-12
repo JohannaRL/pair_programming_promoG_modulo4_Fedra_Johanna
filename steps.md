@@ -31,10 +31,13 @@
 
  Objetivo fin de semana : Crear un DF con las columans de cada df individial con todos los datos que vamos a usar. 
 
-- df_info : movie_title , season, phase, production,worldwide $
-- df_europa : movie_title, spain, portugal , uk
-- df_segundo : film(pasar a movie_title), filtrar género con MCU y male/female. 
-- df_marvel : name(cambiar a movie_title), duration , cast
+- df_info : movie_title , season, phase, production,worldwide $✅
+- df_europa : movie_title, spain, portugal , uk ✅
+- df_segundo : film(pasar a movie_title), filtrar género con MCU y male/female. ✅
+- df_marvel : name(cambiar a movie_title), duration , cast ✅
+
+
+SE HA CREADO UN NUEVO CSV QUE SE LLAMA MARVEL_FINAL✅
 
 ** Valorar hacer un dataframe nuevo donde tengamos los 10 países donde más se ha recaudado dinero por película, y crear una columna. **
 
