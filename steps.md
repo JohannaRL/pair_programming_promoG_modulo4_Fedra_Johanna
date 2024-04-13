@@ -39,11 +39,14 @@
 
 SE HA CREADO UN NUEVO CSV QUE SE LLAMA MARVEL_FINAL✅
 
-** Valorar hacer un dataframe nuevo donde tengamos los 10 países donde más se ha recaudado dinero por película, y crear una columna. **
+** Valorar hacer un dataframe nuevo donde tengamos los 10 países donde más se ha recaudado dinero por película, y crear una columna. 
+ ✅**
 
- - Una vez limpios, los juntaremos en df_marvel_final
+ - Una vez limpios, los juntaremos en df_marvel_final ✅
 
  - Crear vídeo
 
+
+13/04 - Finalizar readme, limpiar repositorio. 
 
 
