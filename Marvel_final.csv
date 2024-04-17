@@ -1,30 +1,28 @@
 movie_title,release_date,season,phase,production_budget_in_million_(USD),worldwide_collection_in_million_(USD),imdb,Spain,Duration,Cast
-Iron Man,"May 2, 2008",Spring,1.0,140.0,585.37,7.9,12.03,2h 6min,"Robert Downey Jr. , Gweneth Paltrow , Terrence Howard"
-The Incredible Hulk,"June 13, 2008",Spring,1.0,150.0,264.77,6.6,7.69,1h 52min,"Edward Norton , Liv Tyler , Tim Roth"
-Iron Man 2,"May 7, 2010",Spring,1.0,200.0,623.93,6.9,7.6,2h 4min,"Robert Downey Jr. , Gweneth Paltrow , Mickey Rourke"
-Thor,"May 6, 2011",Spring,1.0,150.0,449.33,7.0,12.44,1h 55min,"Chris Hemsworth , Anthony Hopkins , Natalie Portman"
-Captain America: The First Avenger,"July 22, 2011",Summer,1.0,140.0,370.57,6.9,7.71,2h 4min,"Chris Evans ,  Hugo Weaving , Samuel L. Jackson"
-The Avengers,"May 4, 2012",Spring,1.0,220.0,1518.82,8.0,20.22,2h 23min,"Robert Downey Jr. , Chris Evans , Scarlett Johansson , Jeremy Renner"
-Iron Man 3,"May 3, 2013",Spring,2.0,200.0,1214.81,7.1,13.05,2h 10min,"Robert Downey Jr. , Gweneth Paltrow , Guy Pearce"
-Thor: The Dark World,"November 8, 2013",Fall,2.0,170.0,644.78,6.8,8.86,,
-Captain America: The Winter Soldier,"April 4, 2014",Spring,2.0,170.0,714.42,7.8,7.76,2h 16min,"Chris Evans , Scarlett Johansson , Samuel L. Jackson"
-Guardians of the Galaxy,"August 1, 2014",Summer,2.0,170.0,773.35,8.0,10.15,2h 1min,"Chris Patt , Vin Diesel , Bradely Cooper"
-Avengers: Age of Ultron,"May 1, 2015",Spring,2.0,250.0,1402.81,7.3,13.64,2h 21min,"Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo"
 Ant-Man,"July 17, 2015",Summer,2.0,130.0,519.31,7.3,4.15,1h 57min,"Paul Rudd , Michael Douglas , Corey Stall"
-Captain America: Civil War,"May 6, 2016",Spring,3.0,250.0,1153.34,7.8,11.35,2h 27min,"Robert Downey Jr. , Chris Evans , Scarlett Johansson , Sebastian Stan"
-Doctor Strange,"November 4, 2016",Fall,3.0,165.0,677.8,7.5,6.98,,
-Guardians of the Galaxy Vol. 2,"May 5, 2017",Spring,3.0,200.0,863.76,7.6,10.31,2h 16min,"Chris Patt ,  Zoe Saldana , Dave Bautista , Vin Diesel"
-Spider-Man: Homecoming,"July 7, 2017",Summer,3.0,175.0,880.17,7.4,11.95,2h 13min,"Tom Holland , Michael Keaton , Robert Downey Jr."
-Thor: Ragnarok,"November 3, 2017",Fall,3.0,180.0,853.98,7.9,10.62,2h 10min,"Chris Hemsworth ,  Cate Blanchett , Tom Hiddleston"
-Black Panther,"February 16, 2018",Winter,3.0,200.0,1347.6,7.3,9.72,2h 14min,"Chadwick Boseman , Michael B. Jordan , Lupita Nyong'o"
-Avengers: Infinity War,"April 27, 2018",Spring,3.0,325.0,2048.36,8.4,24.81,2h 29min,"Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo , Josh Brolin"
 Ant-Man and the Wasp,"July 6, 2018",Summer,3.0,162.0,622.67,7.0,6.87,1h 58min,"Paul Rudd , Evangeline Lilly , Micheal Pena"
-Captain Marvel,"March 8, 2019",Winter,3.0,160.0,1128.46,6.8,14.7,2h 3min,"Brie Larson , Samuel L. Jackson , Ben Mendelsohn"
+Avengers: Age of Ultron,"May 1, 2015",Spring,2.0,250.0,1402.81,7.3,13.64,2h 21min,"Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo"
 Avengers: Endgame,"April 26, 2019",Spring,3.0,356.0,2797.5,8.4,32.67,3h 1min,"Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo , Josh Brolin"
-Spider-Man: Far From Home,"July 2, 2019",Summer,3.0,160.0,1131.93,7.4,15.12,2h 9min,"Tom Holland , Samuel L. Jackson , Jake Gyllenhaal"
+Avengers: Infinity War,"April 27, 2018",Spring,3.0,325.0,2048.36,8.4,24.81,2h 29min,"Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo , Josh Brolin"
+Black Panther,"February 16, 2018",Winter,3.0,200.0,1347.6,7.3,9.72,2h 14min,"Chadwick Boseman , Michael B. Jordan , Lupita Nyong'o"
 Black Widow,"July 9, 2021",Summer,4.0,200.0,379.75,6.7,7.33,,
-Shang-Chi and the Legend of the Ten Rings,"September 3, 2021",Summer,4.0,150.0,432.24,7.4,6.97,,
+Captain America: Civil War,"May 6, 2016",Spring,3.0,250.0,1153.34,7.8,11.35,2h 27min,"Robert Downey Jr. , Chris Evans , Scarlett Johansson , Sebastian Stan"
+Captain America: The First Avenger,"July 22, 2011",Summer,1.0,140.0,370.57,6.9,7.71,2h 4min,"Chris Evans ,  Hugo Weaving , Samuel L. Jackson"
+Captain America: The Winter Soldier,"April 4, 2014",Spring,2.0,170.0,714.42,7.8,7.76,2h 16min,"Chris Evans , Scarlett Johansson , Samuel L. Jackson"
+Captain Marvel,"March 8, 2019",Winter,3.0,160.0,1128.46,6.8,14.7,2h 3min,"Brie Larson , Samuel L. Jackson , Ben Mendelsohn"
+Doctor Strange,"November 4, 2016",Fall,3.0,165.0,677.8,7.5,6.98,,
 Eternals,"November 5, 2021",Fall,4.0,200.0,402.06,6.4,8.59,,
+Guardians of the Galaxy,"August 1, 2014",Summer,2.0,170.0,773.35,8.0,10.15,2h 1min,"Chris Patt , Vin Diesel , Bradely Cooper"
+Guardians of the Galaxy Vol. 2,"May 5, 2017",Spring,3.0,200.0,863.76,7.6,10.31,2h 16min,"Chris Patt ,  Zoe Saldana , Dave Bautista , Vin Diesel"
+Iron Man,"May 2, 2008",Spring,1.0,140.0,585.37,7.9,12.03,2h 6min,"Robert Downey Jr. , Gweneth Paltrow , Terrence Howard"
+Iron Man 2,"May 7, 2010",Spring,1.0,200.0,623.93,6.9,7.6,2h 4min,"Robert Downey Jr. , Gweneth Paltrow , Mickey Rourke"
+Iron Man 3,"May 3, 2013",Spring,2.0,200.0,1214.81,7.1,13.05,2h 10min,"Robert Downey Jr. , Gweneth Paltrow , Guy Pearce"
+Shang-Chi and the Legend of the Ten Rings,"September 3, 2021",Summer,4.0,150.0,432.24,7.4,6.97,,
+Spider-Man: Far From Home,"July 2, 2019",Summer,3.0,160.0,1131.93,7.4,15.12,2h 9min,"Tom Holland , Samuel L. Jackson , Jake Gyllenhaal"
+Spider-Man: Homecoming,"July 7, 2017",Summer,3.0,175.0,880.17,7.4,11.95,2h 13min,"Tom Holland , Michael Keaton , Robert Downey Jr."
 Spider-Man: No Way Home,"December 17, 2021",Fall,4.0,200.0,1892.62,8.4,30.92,,
-Thor: The dark world,,,,,,,,1h 52min,"Chris Hemsworth ,  Natalie Portman , Tom Hiddleston"
-Doctor Strange ,,,,,,,,1h 55min,"Benedict Cumberbatch , Chiswetel Ejiofor , Racheal McAdams"
+The Avengers,"May 4, 2012",Spring,1.0,220.0,1518.82,8.0,20.22,2h 23min,"Robert Downey Jr. , Chris Evans , Scarlett Johansson , Jeremy Renner"
+The Incredible Hulk,"June 13, 2008",Spring,1.0,150.0,264.77,6.6,7.69,1h 52min,"Edward Norton , Liv Tyler , Tim Roth"
+Thor,"May 6, 2011",Spring,1.0,150.0,449.33,7.0,12.44,1h 55min,"Chris Hemsworth , Anthony Hopkins , Natalie Portman"
+Thor: Ragnarok,"November 3, 2017",Fall,3.0,180.0,853.98,7.9,10.62,2h 10min,"Chris Hemsworth ,  Cate Blanchett , Tom Hiddleston"
+Thor: The Dark World,"November 8, 2013",Fall,2.0,170.0,644.78,6.8,8.86,,
